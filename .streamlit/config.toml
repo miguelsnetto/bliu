@@ -1,0 +1,13 @@
+# .streamlit/config.toml
+
+[theme]
+primaryColor="#FFFFFF"        # Cor primária dos botões, barras, etc. (vermelho padrão do Streamlit)
+backgroundColor="#1A3F2D"      # Cor de fundo da aplicação
+secondaryBackgroundColor="#FFFFFF" # Cor de fundo dos widgets
+textColor="#eeeeee"            # Cor do texto principal
+font="sans serif"              # Fonte: "sans serif", "serif", "monospace"
+
+# Você pode adicionar outras configurações aqui
+# [server]
+# port = 8501
+# enableCORS = false
