@@ -12,6 +12,24 @@ import warnings
 warnings.filterwarnings("ignore")
 
 
+import streamlit as st
+import os
+from dotenv import load_dotenv
+
+def get_secret(key):
+    """
+    Get a secret from Streamlit or fallback to .env for local development.
+
+    This allows the app to run both on Streamlit Cloud and locally.
+    """
+    try:
+        return st.secrets[key]
+    except Exception:
+        load_dotenv()
+        return os.getenv(key)
+
+api_key = get_secret("GOOGLE_API_KEY")
+
 # Função auxiliar que envia uma mensagem para um agente via Runner e retorna a resposta final
 def call_agent(agent: Agent, message_text: str) -> str:
     # Cria um serviço de sessão em memória

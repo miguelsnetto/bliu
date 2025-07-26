@@ -18,7 +18,7 @@ st.markdown(
 </style>
 """,
     unsafe_allow_html=True,
-)  # ATENÇÃO: Use com cautela!
+)  
 
 st.title("🛍️ Clau: Seu Assistente de Compras Inteligentes")
 st.image("clau.png", width=400)
