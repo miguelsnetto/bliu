@@ -6,7 +6,7 @@ No mundo de hoje, tomar decisões de compra que equilibram **preço**, **qualida
 
 Bliu atua como seu consultor pessoal, explorando o mercado, analisando a sustentabilidade das empresas e avaliando o custo-benefício dos produtos para te guiar nas melhores escolhas. Ele foi projetado para te ajudar a consumir de forma mais consciente, sem abrir mão das suas necessidades e do seu orçamento.
 
-![Agente Bliu com uma muda de árvore e uma calculadora nas mãos](/clau.png)
+![Agente Bliu com uma muda de árvore e uma calculadora nas mãos](/bliu.png)
 -----
 
 ## 💡 O Problema que o Bliu resolve
