@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as stt
 from agente import (
     agente_explorador,
     agente_especialista_ambiental,
