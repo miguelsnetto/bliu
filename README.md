@@ -2,7 +2,7 @@
 
 ## ✨ Visão Geral do Projeto
 
-No mundo de hoje, tomar decisões de compra que equilibram **preço**, **qualidade** e **impacto ambiental/social** pode ser um verdadeiro desafio. É aqui que entra o **Clau**, um **agente de IA multi-agente** revolucionário que simplifica esse processo para você\!
+No mundo de hoje, tomar decisões de compra que equilibram **preço**, **qualidade** e **impacto ambiental/social** pode ser um verdadeiro desafio. É aqui que entra o **Clau**, um **agente de IA multi-agente** que simplifica esse processo para você\!
 
 Clau atua como seu consultor pessoal, explorando o mercado, analisando a sustentabilidade das empresas e avaliando o custo-benefício dos produtos para te guiar nas melhores escolhas. Ele foi projetado para te ajudar a consumir de forma mais consciente, sem abrir mão das suas necessidades e do seu orçamento.
 
