@@ -1,4 +1,4 @@
-from google.adk.agents import Agents
+from google.adk.agents import Agent
 from google.adk.runners import Runner
 from google.adk.sessions import InMemorySessionService
 from google.adk.tools import google_search
