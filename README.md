@@ -1,27 +1,27 @@
-# Clau: Seu Assistente Inteligente para Compras Sustentáveis e Econômicas 🛍️ ☘️
+# Bliu: Seu Assistente Inteligente para Compras Sustentáveis e Econômicas 🛍️ ☘️
 
 ## ✨ Visão Geral do Projeto
 
-No mundo de hoje, tomar decisões de compra que equilibram **preço**, **qualidade** e **impacto ambiental/social** pode ser um verdadeiro desafio. É aqui que entra o **Clau**, um **agente de IA multi-agente** que simplifica esse processo para você\!
+No mundo de hoje, tomar decisões de compra que equilibram **preço**, **qualidade** e **impacto ambiental/social** pode ser um verdadeiro desafio. É aqui que entra o **Bliu**, um **agente de IA multi-agente** que simplifica esse processo para você\!
 
-Clau atua como seu consultor pessoal, explorando o mercado, analisando a sustentabilidade das empresas e avaliando o custo-benefício dos produtos para te guiar nas melhores escolhas. Ele foi projetado para te ajudar a consumir de forma mais consciente, sem abrir mão das suas necessidades e do seu orçamento.
+Bliu atua como seu consultor pessoal, explorando o mercado, analisando a sustentabilidade das empresas e avaliando o custo-benefício dos produtos para te guiar nas melhores escolhas. Ele foi projetado para te ajudar a consumir de forma mais consciente, sem abrir mão das suas necessidades e do seu orçamento.
 
-![Agente Clau com uma muda de árvore e uma calculadora nas mãos](/clau.png)
+![Agente Bliu com uma muda de árvore e uma calculadora nas mãos](/clau.png)
 -----
 
-## 💡 O Problema que o Clau resolve
+## 💡 O Problema que o Bliu resolve
 
   * **Complexidade da Escolha:** Inúmeras opções de produtos e a dificuldade em compará-los seguindo seus critérios.
   * **Falta de Informação Transparente:** Dificuldade em acessar dados confiáveis sobre as práticas de sustentabilidade das empresas.
   * **Dilema Custo vs. Sustentabilidade:** Muitas vezes, produtos sustentáveis parecem mais caros, e é difícil encontrar o equilíbrio ideal.
 
-Clau aborda esses pontos, fornecendo uma análise profunda e personalizada, permitindo que você tome decisões de compra mais informadas e alinhadas aos seus valores.
+Bliu aborda esses pontos, fornecendo uma análise profunda e personalizada, permitindo que você tome decisões de compra mais informadas e alinhadas aos seus valores.
 
 -----
 
-## 🤖 Como Clau Funciona: Arquitetura Multi-Agente
+## 🤖 Como Bliu Funciona: Arquitetura Multi-Agente
 
-O Clau é construído sobre uma arquitetura robusta de **agentes de IA especializados**, cada um com uma função única para garantir uma análise abrangente e precisa. Essa colaboração entre agentes é o que torna o Clau tão eficaz\!
+O Bliu é construído sobre uma arquitetura robusta de **agentes de IA especializados**, cada um com uma função única para garantir uma análise abrangente e precisa. Essa colaboração entre agentes é o que torna o Bliu eficaz\!
 
 ### 1\. **Agente Explorador (Buscador de Produtos)**
 
@@ -30,7 +30,7 @@ O Clau é construído sobre uma arquitetura robusta de **agentes de IA especiali
 
 ### 2\. **Agente Especialista em Consumo Sustentável**
 
-  * **Propósito:** Seu consultor de impacto ambiental e social. Este agente mergulha nas práticas de sustentabilidade das empresas por trás dos produtos.
+  * **Propósito:** Seu Consultor de impacto ambiental e social. Este agente mergulha nas práticas de sustentabilidade das empresas por trás dos produtos.
   * **Funcionalidade:** Ele pesquisa informações sobre emissões, uso de recursos, condições de trabalho, ética corporativa e envolvimento social. Cada empresa/produto recebe uma **nota de sustentabilidade (0-10)** e um parecer detalhado, classificando as opções do mais para o menos sustentável.
 
 ### 3\. **Agente Especialista em Economia**
@@ -64,7 +64,7 @@ O Clau é construído sobre uma arquitetura robusta de **agentes de IA especiali
 
 -----
 
-## 🚀 Como Rodar o Clau
+## 🚀 Como Rodar o Bliu
 
 ### Pré-requisitos
 
@@ -107,7 +107,7 @@ O Clau é construído sobre uma arquitetura robusta de **agentes de IA especiali
 
 ## 🎯 Exemplo de Uso
 
-Vamos ver o Clau em ação ao pesquisar por "Tênis de Corrida" com um orçamento de "R$600":
+Vamos ver o Bliu em ação ao pesquisar por "Tênis de Corrida" com um orçamento de "R$600":
 
 **Input:**
 
@@ -146,16 +146,16 @@ Quanto você tem disponível para compra? R$600
 
 ## 📈 Próximos Passos e Melhorias Futuras
 
-Estamos sempre buscando aprimorar o Clau\! Algumas ideias para o futuro incluem:
+Estamos sempre buscando aprimorar o Bliu\! Algumas ideias para o futuro incluem:
 
   * **Integração com APIs de E-commerce:** Para obter preços em tempo real e links diretos de compra mais precisos.
   * **Métricas de Sustentabilidade Aprofundadas:** Pesquisar certificações, relatórios de impacto e pegada de carbono.
   * **Personalização de Preferências:** Permitir que o usuário defina o peso de cada critério (sustentabilidade vs. economia).
-  * **Interface de Usuário (UI):** Desenvolver uma interface mais intuitiva para interação com o Clau.
+  * **Interface de Usuário (UI):** Desenvolver uma interface mais intuitiva para interação com o Bliu.
   * **Análise de Avaliações em Maior Escala:** Utilizar processamento de linguagem natural (PNL) avançado para extrair insights mais ricos de milhares de avaliações.
 
 -----
 
 ## 🤝 Contribua\!
 
-Sua contribuição é muito bem-vinda\! Se você tem ideias, sugestões ou quer colaborar com o desenvolvimento do Clau, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+Sua contribuição é muito bem-vinda\! Se você tem ideias, sugestões ou quer colaborar com o desenvolvimento do Bliu, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
